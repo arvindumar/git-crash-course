@@ -9,3 +9,4 @@ const age = 29;
 function isAbove18() {
   return age > 18;
 }
+const hello = "hello js user!!";
